@@ -1,0 +1,18 @@
+cuisine,菜肴
+prior,先前的
+prior to,在……之前（词组）
+consist of,由……组成（词组）
+pepper,甜椒，胡椒粉
+recipe,烹饪法，食谱
+bold,大胆自信的，敢于冒险的
+chef,厨子
+peppercorn,胡椒粉
+vinegar,醋
+stuff,填满，东西
+slice,切下，薄片
+onion,洋葱
+lamb,羊羔
+elegant,精美的
+exceptional,特别的，罕见的
+minimum,最小值
+consume,吃
